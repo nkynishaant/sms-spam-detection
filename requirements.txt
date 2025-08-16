@@ -1,3 +1,7 @@
 streamlit
-    nltk
-    # other dependencies if any
+nltk
+scikit-learn
+pandas
+numpy
+
+   
