@@ -1,8 +1,6 @@
 # AImL-projects
 machine learning project
-# SMS Spam Detection Analysis - NLP
-
-**Complete Video Tutorial:** https://youtu.be/YklplKmCoUw
+# SMS Spam Detection Analysis - NLp
 
 # Dataset Information
 
