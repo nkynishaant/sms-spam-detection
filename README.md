@@ -1,4 +1,4 @@
-# AIML-projects
+# AIML-project
 machine learning project
 # SMS Spam Detection Analysis - NLP
 
